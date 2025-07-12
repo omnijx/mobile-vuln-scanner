@@ -28,6 +28,8 @@ Jetpack Compose 기반의 간편한 UI로 APK 선택과 스캔, 결과 확인을
 - **결과 탐색 UX**  
   - 룰별 접기/펼치기, 상세 설명 및 검출 위치 확인  
 
+<img width="573" height="1259" alt="image" src="https://github.com/user-attachments/assets/c8c7ea7a-bf17-464b-8251-30dd9598951b" />
+
 ---
 
 ## 🚀 설치 및 실행
